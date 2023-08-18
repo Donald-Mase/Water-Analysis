@@ -1,6 +1,6 @@
 # Water-Analysis
 ## Configuring ML in water analysis project.
-#Description
+##Description
 The project is an extension of a data analysis and visualization project that traces properties of water to determine potability.
 
 #Installation 
